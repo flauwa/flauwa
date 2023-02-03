@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flauwa.
-- 👀 I’m interested in Information Security.
-- 🌱 I’m currently learning coding webs, and deep learning.
+- 👀 I’m now interested in DevOps.
+- 🌱 I’m currently starting my journey on the DevOps road...
 - 📫 How to reach me: ledgechan@gmail.com
 
 <!---
