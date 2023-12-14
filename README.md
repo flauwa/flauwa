@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @flauwa.
-- 👀 I’m now interested in DevOps.
+- 👀 I’m a busy person, busy lazying.
 - 🌱 I’m currently starting my journey on the DevOps road...
-- 📫 How to reach me: ledgechan@gmail.com
+- 📫 How to reach me: flauwa@duck.com
 
 <!---
 - 💞️ I’m looking to collaborate on ...
